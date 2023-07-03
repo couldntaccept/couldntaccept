@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Machine Learning in Software Engineering
 - 📫 Reach me on user4308000@gmail.com
-- 😄 My recent project: [oldphonedeals.onrender.com]([url](https://oldphonedeals.onrender.com/))
+- 😄 My recent project: https://oldphonedeals.onrender.com
 
 <!---
 couldntaccept/couldntaccept is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
